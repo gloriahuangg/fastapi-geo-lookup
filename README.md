@@ -195,28 +195,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">your-username</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">GloriaHuang</a>
 </p>
 
 
-This GitHub-optimized README includes:
-
-1. Eye-catching badges showing tech stack and status
-2. Emojis for better visual organization
-3. Clear project structure
-4. Quick start guide
-5. Detailed documentation
-6. Development setup instructions
-7. Contributing guidelines
-8. Future improvements roadmap
-9. Professional footer
-
-To use this README:
-
-1. Replace `yourusername` with your actual GitHub username
-2. Add your actual project image if you have one
-3. Update the badges with your actual project status
-4. Modify the license if you're not using MIT
-5. Update the future improvements section based on your roadmap
-
-Would you like me to modify any section or add additional information?
