@@ -1,6 +1,3 @@
-I'll create a GitHub-ready README.md file with added badges, improved formatting, and a more GitHub-friendly structure.
-
-
 
 # 🌍 FastAPI Geospatial Lookup Service
 
